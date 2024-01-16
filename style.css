@@ -63,7 +63,7 @@ img
 .hero
 {
 	height: 100vh;
-	background-image: url(img/hero-bg.png);
+	background-image: url(hero-bg.png);
 	background-position: top center;
 	background-size: cover;
 }
@@ -177,17 +177,17 @@ img
 
 .offer-tour
 {
-	background-image: url(img/tour.png);
+	background-image: url(tour.png);
 }
 
 .offer-classes
 {
-	background-image: url(img/classes.png);
+	background-image: url(classes.png);
 }
 
 .offer-training
 {
-	background-image: url(img/training.png);
+	background-image: url(training.png);
 }
 
 .offer-name
@@ -221,18 +221,18 @@ img
 
 .author-pic-a
 {
-	background-image: url(img/author-a.png);
+	background-image: url(author-a.png);
 	background-position: center center;
 }
 
 .author-pic-b
 {
-	background-image: url(img/author-b.png);
+	background-image: url(author-b.png);
 }
 
 .author-pic-c
 {
-	background-image: url(img/author-c.png);
+	background-image: url(author-c.png);
 }
 
 .review-content
@@ -254,7 +254,7 @@ img
 .footer-widget
 {
 	height: 60vh;
-	background-image: url(img/footer-bg.png);
+	background-image: url(footer-bg.png);
 	background-size: cover;
 	background-position: center center;
 }
